@@ -22,7 +22,7 @@ if option == "Text Query":
                 st.subheader("📢 Summary:")
                 st.success(data["summary"])
                 st.subheader("📄 Context:")
-                st.code(data["context"])
+                st.code(data["context_used"])
 
                 if Path("response.mp3").exists():
                     st.audio("response.mp3", format="audio/mp3")
