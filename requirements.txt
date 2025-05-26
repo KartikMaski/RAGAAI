@@ -15,11 +15,6 @@ scikit-learn
 beautifulsoup4
 sec-edgar-downloader
 langchain
-Path
-Downloader
-os
-gtts
-beautifulsoup4
 pydantic
 openai
 aiohttp
