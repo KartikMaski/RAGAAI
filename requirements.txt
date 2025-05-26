@@ -13,8 +13,7 @@ faiss-cpu
 sentence-transformers
 scikit-learn
 beautifulsoup4
-sec-edgar-downloader
-tempfile
+sec-edgar-downloader==3.6.0
 langchain
 Path
 Downloader
