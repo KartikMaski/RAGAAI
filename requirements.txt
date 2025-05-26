@@ -21,3 +21,5 @@ Downloader
 os
 gtts
 beautifulsoup4
+pydantic
+openai
