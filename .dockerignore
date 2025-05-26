@@ -1,9 +1,0 @@
-__pycache__
-*.pyc
-*.pyo
-*.pyd
-*.mp3
-*.wav
-temp_*
-.env
-.DS_Store
