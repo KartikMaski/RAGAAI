@@ -1,0 +1,16 @@
+streamlit
+fastapi
+uvicorn
+transformers
+whisper
+pydub
+requests
+torch
+sounddevice
+scipy
+gtts
+faiss-cpu
+sentence-transformers
+scikit-learn
+beautifulsoup4
+sec-edgar-downloader
