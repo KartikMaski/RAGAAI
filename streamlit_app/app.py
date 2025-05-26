@@ -2,7 +2,6 @@ import streamlit as st
 import requests
 import tempfile
 from pathlib import Path
-from pydub import AudioSegment
 import os
 
 st.set_page_config(page_title="Finance Assistant", layout="centered")
