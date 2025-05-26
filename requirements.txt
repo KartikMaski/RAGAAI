@@ -19,3 +19,4 @@ pydantic
 openai
 aiohttp
 yfinance
+langchain_community
