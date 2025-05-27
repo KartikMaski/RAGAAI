@@ -73,8 +73,7 @@ A modular, multi-agent financial assistant capable of ingesting real-time data, 
          | Whisper ASR       | ←── Audio Transcription
          | gTTS              | ←── Audio Playback
          +-------------------+
-
-
+```
 
 ## 🔧 Components Breakdown
 
