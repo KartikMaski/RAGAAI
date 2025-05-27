@@ -5,6 +5,11 @@
 A modular, multi-agent financial assistant capable of ingesting real-time data, analyzing market movements, performing document retrieval, generating natural language summaries, and interacting through voice. Built using **FastAPI**, **LangChain**, **HuggingFace**, **Whisper**, and **Streamlit**.
 
 ---
+## Interface Screenshot
+
+![image](https://github.com/user-attachments/assets/f58f264d-4bf1-4e77-bd0b-5e9303f6dcbb)
+![image](https://github.com/user-attachments/assets/31fac794-7f65-47ab-aca6-2e1445f810d1)
+
 
 ## 🧠 Key Features
 
