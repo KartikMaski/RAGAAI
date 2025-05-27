@@ -20,8 +20,9 @@ A modular, multi-agent financial assistant capable of ingesting real-time data, 
 
 
 
-## Architecture
+## 📐 System Architecture
 
+```plaintext
                         +------------------+
                         |   Streamlit App  |
                         |   (app.py)       |
@@ -29,7 +30,7 @@ A modular, multi-agent financial assistant capable of ingesting real-time data, 
                                  |
                                  v (HTTP)
                   +--------------+--------------+
-                  |      FastAPI Orchestrator   | ←─── Main microservice interface
+                  |      FastAPI Orchestrator   |
                   |        (main.py)            |
                   +--------------+--------------+
                                  |
